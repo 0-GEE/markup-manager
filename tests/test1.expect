@@ -1,0 +1,50 @@
+[Command?]
+<document>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text>
+  </text>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> id set to 't1'.
+[Command?]
+<text id='t1'>
+</text>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text id='t1'>
+  </text>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='t1'>
+</text>
+[Command?]
+<text> value set to 'dasdjdj'.
+[Command?]
+<text id='t1' value='dasdjdj'>
+</text>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text id='t1' value='dasdjdj'>
+  </text>
+</document>
+[Command?]

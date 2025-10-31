@@ -1,0 +1,167 @@
+[Command?]
+<document>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> id set to 'deepest'.
+[Command?]
+<text id='deepest'>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+  <text id='deepest'>
+  </text>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='deepest'>
+</text>
+[Command?]
+<text> is now in the clipboard.
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text>
+    <text>
+      <text>
+        <text id='deepest'>
+        </text>
+      </text>
+    </text>
+  </text>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> id set to 'otherbranch'.
+[Command?]
+<text id='otherbranch'>
+</text>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text>
+    <text>
+      <text>
+        <text id='deepest'>
+        </text>
+      </text>
+    </text>
+  </text>
+  <text id='otherbranch'>
+  </text>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='otherbranch'>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='deepest'>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='otherbranch'>
+  <text id='deepest'>
+  </text>
+</text>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text>
+    <text>
+      <text>
+        <text id='deepest'>
+        </text>
+      </text>
+    </text>
+  </text>
+  <text id='otherbranch'>
+    <text id='deepest'>
+    </text>
+  </text>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='otherbranch'>
+  <text id='deepest'>
+  </text>
+</text>
+[Command?]
+<text> is now in the clipboard.
+<document> is now the current tag.
+[Command?]
+<document>
+  <text>
+    <text>
+      <text>
+        <text id='deepest'>
+        </text>
+      </text>
+    </text>
+  </text>
+</document>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text>
+    <text>
+      <text>
+        <text id='deepest'>
+        </text>
+      </text>
+    </text>
+  </text>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+  <text>
+    <text>
+      <text id='deepest'>
+      </text>
+    </text>
+  </text>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='otherbranch'>
+  <text id='deepest'>
+  </text>
+</text>
+[Command?]

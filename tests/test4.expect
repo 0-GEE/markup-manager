@@ -1,0 +1,84 @@
+[Command?]
+<document>
+</document>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> id set to 'layer1'.
+[Command?]
+<text id='layer1'>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> id set to 'layer2'.
+[Command?]
+<text id='layer2'>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> id set to 'layer3'.
+[Command?]
+<text id='layer3'>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text>
+</text>
+[Command?]
+<text> id set to 'layer4'.
+[Command?]
+<text id='layer4'>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='layer3'>
+  <text id='layer4'>
+  </text>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='layer2'>
+  <text id='layer3'>
+    <text id='layer4'>
+    </text>
+  </text>
+</text>
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text id='layer1'>
+  <text id='layer2'>
+    <text id='layer3'>
+      <text id='layer4'>
+      </text>
+    </text>
+  </text>
+</text>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <text id='layer1'>
+    <text id='layer2'>
+      <text id='layer3'>
+        <text id='layer4'>
+        </text>
+      </text>
+    </text>
+  </text>
+</document>
+[Command?]

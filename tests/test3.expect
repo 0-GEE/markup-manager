@@ -1,0 +1,71 @@
+[Command?]
+<document>
+</document>
+[Command?]
+[Command?]
+<document>
+</document>
+[Command?]
+[Command?]
+<document>
+</document>
+[Command?]
+[Command?]
+<document>
+</document>
+[Command?]
+<body> is now the current tag.
+[Command?]
+<body>
+</body>
+[Command?]
+<body> id set to 'the-body'.
+[Command?]
+<body id='the-body'>
+</body>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <body id='the-body'>
+  </body>
+</document>
+[Command?]
+<body> is now the current tag.
+[Command?]
+<body id='the-body'>
+</body>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <body id='the-body'>
+  </body>
+</document>
+[Command?]
+[Command?]
+<document>
+  <body id='the-body'>
+  </body>
+</document>
+[Command?]
+<body> is now the current tag.
+[Command?]
+<body id='the-body'>
+</body>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+</document>
+[Command?]
+<document> id set to 'aiouaahtml'.
+[Command?]
+<document id='aiouaahtml'>
+</document>
+[Command?]
+<document> value set to 'ZZzzZaisd'.
+[Command?]
+<document id='aiouaahtml' value='ZZzzZaisd'>
+</document>
+[Command?]
